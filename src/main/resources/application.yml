@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: defaultApp
+  profiles:
+    active: pord
+server:
+  port: 9023
